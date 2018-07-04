@@ -7,9 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+```Matlab
+% -----------------------------------------------------------------------
+% Check for master scripts and get dir
+% -----------------------------------------------------------------------
 
-```
-This is Luke's test github page
+masterscriptdir = fileparts(which('Second_level_analysis_template_scripts/0_begin_here_readme'));
 
-Stuff about the site goes here
+if isempty(masterscriptdir)
+    error('Add Second_level_analysis_template_scripts folder from CANlab_help_examples repository to your path'); 
+end
 ```
