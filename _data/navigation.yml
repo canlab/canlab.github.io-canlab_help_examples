@@ -2,7 +2,7 @@
 main:
     
   - title: "First-Level Analysis"
-    url: /first_level/
+    url: /first_level
 
   - title: "Second-Level Analysis"
-    url: /second_level/
+    url: /second_level

@@ -10,7 +10,7 @@ redirect_from:
 
 
 Below are how-to examples that publish HTML files with code and output. These examples require the [CAN Lab Core Tools Repository](https://github.com/canlab/CanlabCore). The help examples focus on the CANlab’s interactive object-oriented tools.
-Running the examples also serves as a preliminary unit test frame for the CANlab tools.
+Running the examples also serves as a preliminary unit test frame for the CAN Lab tools.
 
 Please document errors by posting issues on the [CAN Lab Github page](https://github.com/canlab/CanlabScripts/issues).
 
