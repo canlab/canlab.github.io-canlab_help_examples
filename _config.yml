@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luke Slipski's Github"
+title                    : "CAN Lab"
 title_separator          : "-"
-name                     : &name "Luke"
-description              : &description "MPH"
+name                     : &name "Cognitive and Affective Neuroscience Lab"
+description              : &description "Pain and Emotion at CU Boulder"
 url                      : https://lslipski.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lslipski.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/about"
+repository               : "https://github.com/Lslipski/CANlab_help_examples"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Luke"
+  name             : "CAN Lab"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "We investigate the brain pathways that underlie the generation and regulation of pain and emotion."
   location         : "Boulder, CO"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    :
   email            :
   uri              :
   bitbucket        :
@@ -92,16 +92,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://www.linkedin.com/in/lukeslipski/"
+  github           : "https://github.com/canlab"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/testaccount"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : #
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
@@ -110,6 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cuwebsite        : "https://canlabweb.colorado.edu/"
 
 
 # Reading Files
