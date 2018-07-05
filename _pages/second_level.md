@@ -79,7 +79,7 @@ Copy over to your Analysis folder ‘study_info.json’
 ======
 1. In a text editor, edit the study_info.json file to fit your data
 For example:
-```JSON
+```json
 {
 "Primary_publication": 
 "Fill in this JSON-format file and call it study_info.json, in your main
