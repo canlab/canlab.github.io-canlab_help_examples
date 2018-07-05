@@ -1,5 +1,5 @@
 ---
-permalink: /second_level/
+permalink: /second/
 title: "Constructing a Second-Level fMRI Analysis Pipeline"
 author_profile: true
 redirect_from: 

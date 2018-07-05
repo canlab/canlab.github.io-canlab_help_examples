@@ -1,6 +1,6 @@
 ---
 permalink: /first_level/
-title: "Constructing a Second-Level fMRI Analysis Pipeline"
+title: "Constructing a First-Level fMRI Analysis Pipeline"
 author_profile: true
 redirect_from: 
 
