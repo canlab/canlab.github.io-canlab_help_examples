@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Setup and System Requirements"
+    url: /setup/
+
   - title: "First-Level Analysis"
     url: /first_level/
 
