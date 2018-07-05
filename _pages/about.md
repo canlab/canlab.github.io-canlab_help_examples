@@ -17,10 +17,10 @@ Please document errors by posting issues on the [CAN Lab Github page](https://gi
 First-Level Analysis Tutorial
 ======
 For a tutorial on how to use CAN Lab scripts to create a first-level analysis pipeline dealing with individual differences between study participants,
-please see our [First-Level Analysis Tutorial](_pages/first_level.md)
+please see our [First-Level Analysis Tutorial](/first_level.md)
 
 
 Second-Level Analysis Tutorial
 ======
 For a tutorial on how to use CAN LAb scripts to create a second-level analysis pipeline dealing with groups of subjects, please see our [Second-Level 
-Analysis Tutorial](_pages/second_level.md)
+Analysis Tutorial](/second_level.md)
