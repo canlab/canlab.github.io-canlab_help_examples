@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Constructing an fMRI Analysis Pipeline"
+title: "What our Code Does"
 excerpt: "This site serves as the point of entry for using CAN Lab scripts to build an fMRI first- and second-level analysis pipeline"
 author_profile: true
 redirect_from: 
