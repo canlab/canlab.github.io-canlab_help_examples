@@ -9,24 +9,25 @@ redirect_from:
 ---
 
 
-Below are how-to examples that publish HTML files with code and output. These examples require the [CAN Lab Core Tools Repository](https://github.com/canlab/CanlabCore). The help examples focus on the CANlab’s interactive object-oriented tools.
-Running the examples also serves as a preliminary unit test frame for the CAN Lab tools.
+Below are examples consisting of code, results, and figures for each section. These examples require the [CAN Lab Core Tools Repository](https://github.com/canlab/CanlabCore).
+Running the examples in your own environment also serves as a preliminary unit test frame for the CAN Lab tools.
 
 Please document errors by posting issues on the [CAN Lab Github page](https://github.com/canlab/CanlabScripts/issues).
 
-First-Level Analysis Tutorial
+Data Quality Control
 ======
-For a tutorial on how to use CAN Lab scripts to create a first-level analysis pipeline dealing with individual differences between study participants,
-please see our [First-Level Analysis Tutorial](/first_level.md)
+<details>
+<summary></summary>
++ Data Quality Control
+    + First
+    
+    +Second
+    
+    +Third
+</details>
 
 
 Second-Level Analysis Tutorial
 ======
 For a tutorial on how to use CAN LAb scripts to create a second-level analysis pipeline dealing with groups of subjects, please see our [Second-Level 
 Analysis Tutorial](/second_level.md)
-
-
-<details>
-<summary>Data Quality Control</summary>
-+Markdown List numma eins
-</details>
