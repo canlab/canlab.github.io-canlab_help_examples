@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "What it Does"
-    url: /about/
-
   - title: "Setup and System Requirements"
     url: /setup/
 
