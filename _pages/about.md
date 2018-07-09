@@ -24,13 +24,12 @@ Data Quality Control
 ======
 <details>
 <summary>Data Quality Control Examples</summary>
-+ Main list one
+1. Main list one
+   - First
     
-    + First
+   - Second
     
-    + Second
-    
-    + Third
+   - Third
     
 </details>
 
@@ -38,14 +37,10 @@ Univariate Contrasts
 ======
 <details>
 <summary>Univariate Contrasts Examples</summary>
-+ Main list one
-
-    + First
-    
-    + Second
-    
-    +Third
-    
+1. Main list one
+   - First
+   - Second
+   - Third
 </details>
 
 
@@ -53,51 +48,38 @@ Cross Validated SVMs
 ======
 <details>
 <summary>Cross Validated SVM Examples</summary>
-+ Main list one
-
-    + First
-    
-    + Second
-    
-    + Third
+1. Main list one
+   - First
+   - Second
+   - Third
 </details>
 
 Network-Based Analysis
 ======
 <details>
 <summary>Network-Based Analysis Examples</summary>
-+ Main list one
-    
-    + First
-    
-    + Second
-    
-    + Third
+1. Main list one
+   - First
+   - Second
+   - Third
 </details>
 
 Brain Signature Responses
 ======
 <details>
 <summary>Brain Signature Response Examples</summary>
-+ Main list one
-    
-    + First
-    
-    + Second
-    
-    + Third
+1. Main list one
+   - First
+   - Second
+   - Third
 </details>
 
 Parcel-Based Analysis
 ======
 <details>
 <summary>Parcel-Based Examples</summary>
-+ Main list one
-    
-    + First
-    
-    + Second
-    
-    + Third
-    
+1. Main list one
+   - First
+   - Second
+   - Third
 </details>
