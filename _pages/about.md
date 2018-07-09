@@ -24,3 +24,9 @@ Second-Level Analysis Tutorial
 ======
 For a tutorial on how to use CAN LAb scripts to create a second-level analysis pipeline dealing with groups of subjects, please see our [Second-Level 
 Analysis Tutorial](/second_level.md)
+
+
+<details>
+<summary>Data Quality Control</summary>
++Markdown List numma eins
+</details>
