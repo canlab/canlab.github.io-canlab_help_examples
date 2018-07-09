@@ -35,7 +35,7 @@ Data Quality Control
 ```
 Testing out code blocks within details dropdowns!
 ```
-
+</details>
 
 
 Univariate Contrasts
