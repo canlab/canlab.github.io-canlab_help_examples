@@ -17,13 +17,15 @@ Please document errors by posting issues on the [CAN Lab Github page](https://gi
 Data Quality Control
 ======
 <details>
-<summary></summary>
+<summary>Data Quality Control Examples</summary>
 + Data Quality Control
+    
     + First
     
-    +Second
+    + Second
     
-    +Third
+    + Third
+    
 </details>
 
 
