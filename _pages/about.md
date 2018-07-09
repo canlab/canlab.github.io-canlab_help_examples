@@ -25,6 +25,7 @@ Data Quality Control
 <details>
 <summary>Data Quality Control Examples</summary>
 1. Main list one
+   
    - First
     
    - Second
@@ -38,6 +39,7 @@ Univariate Contrasts
 <details>
 <summary>Univariate Contrasts Examples</summary>
 1. Main list one
+   
    - First
    - Second
    - Third
