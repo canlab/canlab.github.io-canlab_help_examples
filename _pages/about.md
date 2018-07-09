@@ -31,8 +31,12 @@ Data Quality Control
    - Second
     
    - Third
-    
-</details>
+   
+```
+Testing out code blocks within details dropdowns!
+```
+
+
 
 Univariate Contrasts
 ======
